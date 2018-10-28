@@ -68,7 +68,9 @@ with open("states.txt", "r") as my_file:
 
 print(load)
 
-
+"""
+pussy
+"""
 
 with open("bars.txt", "r") as my_file:     
         
