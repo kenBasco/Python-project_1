@@ -1,0 +1,121 @@
+Basement Tavern,RI
+Blind Barber,HI
+Break Room 86,NJ
+Del Monte Speakeasy,GA
+Der Wolfskopf,MA
+Dirty Laundry,HI
+Guest Room,SD
+Hemingways Lounge,GA
+Jackalope,MO
+La Descarga,FL
+Lock & Key,KY
+Next Door Lounge,RI
+No Vacancy,NV
+Pour Vous,TX
+R Bar,NV
+The Little Easy,MO
+Red Door,OR
+The Roger Room,SD
+Tunnel Bar,CO
+The Varnish,NV
+The Warwick,KY
+The Writers Room,OH
+Melinda’s Alley,KY
+Noble Experiment,KY
+Prohibition  Liquor Bar,MO
+The Gotham Club ,RI
+Ipswitch,PA
+Sofa,MA
+Wilson & Wilson Private Detective Agency,GA
+Denson Liquor Bar,TX
+Dram & Grain,NV
+Harold Black,CO
+The Crucible,RI
+The Gibson,MA
+2 Birds 1 Stone,AZ
+Blind rabbit,CA
+Parlour,AZ
+Rogue,GA
+Volstead,NJ
+Bardot Speakeasy,KY
+Broken Shaker,AR
+Prohibition Restaurant and Speakeasy,OR
+Railroad Blues,AZ
+Regent Cocktail Club,NV
+Bodega Taqueria & Hidden Speakeasy,HI
+FDR at Delano,PA
+Foxhole,HI
+Hanson’s Shoe Repair,AR
+Neverland Tunnels,MO
+Pharmacy,OH
+Double A,FL
+Fifth Province,HI
+Maria’s Packaged Goods & Community Bar,CA
+Room 13,HI
+Simon’s Tavern,AZ
+The Drifter,HI
+The Office,MA
+The Violet Hour,KY
+Three Dots and a Dash,PA
+Down One Bourbon Bar & Restaurant,PA
+Jake’s Speakeasy,GA
+Meet Meat,SD
+The Oakroom at The Seelbach Hilton,GA
+Arnaud’s French 75,TX
+Bar Tonique,NY
+Polo Club Lounge,NV
+Sazerac Bar,NV
+21st Amendment Bar at La Louisiane,TX
+Bramhall,CA
+Lincolns,KY
+Portland Hunt and Alpine Club,OR
+E-Villa,FL
+Owl Bar at the Belvedere Hotel,MA
+Speakeasy Saloon & Dining House,FL
+WC Harlan,KY
+Backbar,NJ
+Bogie’s Place,SD
+Brass Union,MA
+Brick & Mortar,AR
+Lucky’s Lounge,OR
+Saloon,PA
+The Hawthorne,NJ
+Wink & Nod,NJ
+Angel’s Share,OH
+Apotheke,MO
+Back Room,AR
+Bathtub Gin,AR
+Black Hound,AR
+Blind Barber,AR
+Cienfuegos,CO
+Death + Company,NV
+Dutch Kills,NV
+Hideout,PA
+Hotel Delmano,MO
+Leave Rochelle Out of It,OH
+Little Branch,AZ
+Manderley Bar at the McKittrick Hotel,CA
+Please Don’t Tell,RI
+Raines Law Room,CO
+Rye,MA
+The Richardson,OH
+Visana,AR
+Cloak Room,MA
+Garage,SD
+Midnight Cowboy,NY
+Atwater Alley,GA
+The Balcony Club,CO
+The Gin Mill,CO
+Truth & Alibi,AZ
+XXVII Antique,SD
+Bodega,NV
+The Bar-X,NY
+Bourbon House,NY
+Bathtub Gin & Co,MO
+E. Smith Mercantile Back Room,GA
+Knee High Stocking Co,MO
+Tavern Law,OH
+Bluefield,KY
+The Speakeasy,TX
+Western,CA
+Ysaura’s Pillow,NV
